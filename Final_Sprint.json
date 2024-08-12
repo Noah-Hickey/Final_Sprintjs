@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "custname": "John Wick",
+        "age": 40,
+        "email": "john_wick@yahoo.com",
+        "orderamount": "240.00"
+        
+    },
+    {
+        "id": 2,
+        "custname": "Luke Skywalker",
+        "age": 25,
+        "email": "luke_skywalker@force.com",
+        "orderamount": "390.00"
+    },
+    {
+        "id": 3,
+        "custname": "Raul Menendez",
+        "age": 38,
+        "email": "raul.mendenez@outlook.com",
+        "orderamount": "125.04"
+    },
+    {
+        "id": 4,
+        "custname": "Noah Hickey",
+        "age": 25,
+        "email": "noah.hick@gmail.com",
+        "orderamount": "49.13"
+    },
+    {
+        "id": 5,
+        "custname": "Peter Quill",
+        "age": 36,
+        "email": "star_lord@gmail.com",
+        "orderamount": "265.03"
+    },
+    {
+        "id": 6,
+        "custname": "Clark Kent",
+        "age": 33,
+        "email": "clark.kent_super@outlook.com",
+        "orderamount": "99.38"
+    },
+    {
+        "id": 7,
+        "custname": "Fox Mulder",
+        "age": 38,
+        "email": "fox.mulder_x@fbi.com",
+        "orderamount": "379.09"
+    }
+]
